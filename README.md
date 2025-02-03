@@ -1,0 +1,15 @@
+- Added terrain of varying levels with grass like terrain, trees, dirt paths and water areas.
+- Added a castle with a moat and a bridge with the robot character placed in front of the moat.
+- Added a village near the castle with medieval themed houses, crates, barrels, and wells.
+- Assets links:
+- https://assetstore.unity.com/packages/3d/environments/fantasy/pbr-medieval-houses-pack-71546
+- https://assetstore.unity.com/packages/3d/props/exterior/crates-and-barrels-pack-volume-1-free-version-128829
+- https://assetstore.unity.com/packages/3d/props/exterior/lowpoly-wells-68437
+- https://bit.ly/306eljm
+- https://bit.ly/33MkDqh
+- https://bit.ly/3h6xXel
+- https://assetstore.unity.com/packages/vfx/shaders/aquas-lite-built-in-render-pipeline-53519
+- https://assetstore.unity.com/packages/2d/textures-materials/nature/handpainted-grass-ground-textures-187634
+- https://assetstore.unity.com/packages/3d/vehicles/sea/old-rowboat-31917
+- https://assetstore.unity.com/packages/3d/vegetation/plants/yughues-free-bushes-13168
+- 
